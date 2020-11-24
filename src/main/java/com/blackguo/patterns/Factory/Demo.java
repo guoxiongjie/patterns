@@ -1,4 +1,4 @@
-package com.blackguo.patterns.FactoryPattern;
+package com.blackguo.patterns.Factory;
 
 public class Demo {
 

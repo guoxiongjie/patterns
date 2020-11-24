@@ -1,4 +1,4 @@
-package com.blackguo.patterns.StrategyPattern;
+package com.blackguo.patterns.Strategy;
 
 public class OperationMultiply implements Strategy {
 
